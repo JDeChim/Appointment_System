@@ -15,7 +15,7 @@ namespace Dbsys
     public enum Role
     {
         Student = 1,
-        Teacher = 2,
+        Doctor = 2,
         Admin = 3
 
     }

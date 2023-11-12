@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Dbsys.Forms
 {
-    public partial class Frm_Teacher_DashBoard : Form
+    public partial class Frm_Doctor_DashBoard : Form
     {
-        public Frm_Teacher_DashBoard()
+        public Frm_Doctor_DashBoard()
         {
             InitializeComponent();
         }

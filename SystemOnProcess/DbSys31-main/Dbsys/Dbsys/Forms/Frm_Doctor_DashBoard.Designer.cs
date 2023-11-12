@@ -1,6 +1,6 @@
 ﻿namespace Dbsys.Forms
 {
-    partial class Frm_Teacher_DashBoard
+    partial class Frm_Doctor_DashBoard
     {
         /// <summary>
         /// Required designer variable.

@@ -100,11 +100,11 @@
     <Compile Include="Forms\Frm_Student_Dashboard.Designer.cs">
       <DependentUpon>Frm_Student_Dashboard.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Frm_Teacher_DashBoard.cs">
+    <Compile Include="Forms\Frm_Doctor_DashBoard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Frm_Teacher_DashBoard.Designer.cs">
-      <DependentUpon>Frm_Teacher_DashBoard.cs</DependentUpon>
+    <Compile Include="Forms\Frm_Doctor_DashBoard.Designer.cs">
+      <DependentUpon>Frm_Doctor_DashBoard.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Frm_UserEntry.cs">
       <SubType>Form</SubType>
@@ -133,8 +133,8 @@
     <EmbeddedResource Include="Forms\Frm_Student_Dashboard.resx">
       <DependentUpon>Frm_Student_Dashboard.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Frm_Teacher_DashBoard.resx">
-      <DependentUpon>Frm_Teacher_DashBoard.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\Frm_Doctor_DashBoard.resx">
+      <DependentUpon>Frm_Doctor_DashBoard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Frm_UserEntry.resx">
       <DependentUpon>Frm_UserEntry.cs</DependentUpon>
@@ -190,6 +190,24 @@
       <DependentUpon>DbysModel.edmx</DependentUpon>
       <LastGenOutput>DbysModel.cs</LastGenOutput>
     </Content>
+    <None Include="Resources\Untitled design %283%291.png" />
+    <None Include="Resources\Untitled design %283%29.png" />
+    <None Include="Resources\cool-puppy-dog-with-glasses-studio-clear-background_933798-4501.jpg" />
+    <None Include="Resources\front-view-beautiful-dog-with-copy-space_23-2148786561 %282%29.jpg" />
+    <None Include="Resources\pngkey.com-blue-square-png-12367792.png" />
+    <None Include="Resources\237-2372477_previous-next-university-of-cebu-uniform-removebg-preview.png" />
+    <None Include="Resources\Untitled design %282%29.png" />
+    <None Include="Resources\Untitled design %281%29.png" />
+    <None Include="Resources\pngkey.com-college-students-png-2372477.png" />
+    <None Include="Resources\appointease-high-resolution-logo-removebg-preview.png" />
+    <None Include="Resources\University-of-Cebu-Logo-removebg-preview.png" />
+    <None Include="Resources\pngkey.com-blue-square-png-12367791.png" />
+    <None Include="Resources\pngkey.com-blue-square-png-1236779.png" />
+    <None Include="Resources\Untitled design.png" />
+    <None Include="Resources\uclm.jpg" />
+    <None Include="Resources\GlassT.png" />
+    <None Include="Resources\Transpareng_Glass.jpg" />
+    <None Include="Resources\bd89e7d7e6ed1eba9b4477c1c1cf191b.jpg" />
     <None Include="Resources\anime-school-background-dh3ommnxthw4nln7.jpg" />
     <None Include="Resources\pic12.jpg" />
     <None Include="Resources\pic1.jpg" />

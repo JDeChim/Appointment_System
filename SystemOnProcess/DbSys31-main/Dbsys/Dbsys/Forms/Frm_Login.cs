@@ -52,9 +52,9 @@ namespace Dbsys
                             new Frm_Student_Dashboard().Show();
                             this.Hide();
                             break;
-                        case Role.Teacher:
+                        case Role.Doctor:
                             // Load Teacher Dashboard
-                            new Frm_Teacher_DashBoard().Show();
+                            new Frm_Doctor_DashBoard().Show();
                             this.Hide();
                             break;
                         case Role.Admin:
@@ -105,6 +105,31 @@ namespace Dbsys
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void ckShowPass_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
